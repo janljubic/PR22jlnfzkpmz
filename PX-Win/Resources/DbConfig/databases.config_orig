@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<databases>
+  <database id="demo_CNMM" type="CNMM" name="CNMM database">
+  </database>
+   <database id="demo_PX" type="PX" name="PX database">
+      <params>
+         <path>path_to_Demo_database</path>
+      </params>
+   </database>
+   <database id="ssd_api" type="PXAPI" name="Statistics Sweden API">
+      <params>
+         <baseUrl>http://pxnet2.stat.fi/PXWeb/api/v1/{0}/StatFin/</baseUrl>
+         <supportedLanguages>sv,en</supportedLanguages>
+      </params>
+   </database>
+</databases>
