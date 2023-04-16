@@ -11,5 +11,7 @@
 - preostale datoteke predstavljajo .csv datoteke, ki smo jih pridobili po transformaciji iz .px datoteke.
 ## PX-Win
 - statistično orodje, ki se uporablja za obravnavo .px datotek.
+## slike
+- pripadajoče vizualizacije in razno slikovno gradivo.
 
 ---
