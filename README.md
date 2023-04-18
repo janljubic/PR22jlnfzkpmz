@@ -1,4 +1,3 @@
-@@ -1 +1,104 @@
 # PR22_JL-NFZ-KP-MZ
 # Analiza energetike v Sloveniji
 ## Projektna naloga pri predmetu Podatkovno rudarjenje
