@@ -23,7 +23,7 @@ Pri tem vprašanju se posvečamo predvsem korelaciji med spolom, izobrazbo in pa
 
 #### 2.2 Stopnja brezposelnosti glede na statistično regijo
 
-Pri tem vprašanju smo naleteli na težavo in sicer to, da so podatki, ki smo jih dobili rezdeljeni samo na 2 regije, ki sta vzhodna in zahodna slovenija. Podatke smo uredii in trenutno opazili, da je brezposelnost žensk v vzhodni sloveniji pada veliko hitreje kot v zahodni sloveniji oziroma da pada že dlje časa.
+Pri tem vprašanju smo naleteli na težavo in sicer to, da so podatki, ki smo jih dobili razdeljeni samo na 2 regije, ki sta vzhodna in zahodna slovenija. Podatke smo uredii in trenutno opazili, da je brezposelnost žensk v vzhodni sloveniji pada veliko hitreje kot v zahodni sloveniji oziroma da pada že dlje časa.
 
 
 ### 3. Trendi zaposlovanja na različnih področjih gospodarskih dejavnosti
