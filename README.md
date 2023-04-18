@@ -35,7 +35,7 @@ Podvprašanje, ki si ga bomo postavili, je katere panoge se povečujejo v obsegu
 
 ### 4. Vpliv pandemije Covid-19
 
-Ena izmed stvari, ki jo bomo hoteli raziskati je, 
+Ena izmed stvari, ki jo bomo hoteli raziskati je tudi vpliv pandemije na zaposlovanje na splošno. Pogeldali si bomo kako je pandemija vplivala na zaposlovanje in delo v Sloveniji ter poiskali kakšne zanimivosti, ki so se zgodile.
 
 Na primer, za 3. vprašanje nas bo zanimalo, katere izmed panog gospodarstva so bile v smislu zaposlitve najbolj prizadete zaradi pandemije Covid-19. Vsi recimo vemo, da je bila stopnja odpuščanja v nekaterih panogah zelo visoka (npr. gostinstvo), kar bo bilo najverjetneje tudi razvidno iz naših podatkov iz katerih bomo poskušali potegniti neke smiselne zaključke.
 
