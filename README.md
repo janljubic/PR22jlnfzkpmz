@@ -14,6 +14,7 @@ Preden smo začeli z analizo podatkovnih zbirk smo morali uvožene podatkovne zb
 
 TBD
 
+
 ### 2 Stopnja tveganja revščine po posameznih statističnih regijah
 
 #### 2.1 Stopnja brezposelnosti med spoloma:
@@ -27,15 +28,16 @@ Pri tem vprašanju smo naleteli na težavo in sicer to, da so podatki, ki smo ji
 
 ### 3. Trendi zaposlovanja na različnih področjih gospodarskih dejavnosti
 
-Kot naše zadnje vprašanje pa smo hoteli ugotoviti, kako se spreminja trend zaposlovanja v razčličnih gospodarskih panogah, kot so na primer: rudarstvo, predelovalne dejavnosti, gradbeništvo, gostinstvo, informacijske in komunikacijske dejavnosti... ter kako je pandemija Covid-19 vplivala na razne panoge.
+Kot naše zadnje vprašanje pa smo hoteli ugotoviti, kako se spreminja trend zaposlovanja v razčličnih gospodarskih panogah, kot so na primer: rudarstvo, predelovalne dejavnosti, gradbeništvo, gostinstvo, informacijske in komunikacijske dejavnosti.
 
-#### 3.1 Panoge, ki naraščajo/padajo v popularnosti
+Podvprašanje, ki si ga bomo postavili, je katere panoge se povečujejo v obsegu ter iščejo novo delovno silo (npr.), ter katere zaradi trendov v svetu
 
-Prvo podvprašanje, ki si ga bomo postavili je katere panoge se povečujejo v obsegu ter iščejo novo delovno silo, ter katere zaradi 
 
-#### 3.2 Covid-19 pandemija
+### 4. Vpliv Covid-19
 
-Ena izmed stvari, ki jo bomo hoteli raziskati je, katere izmed panog gospodarstva so bile v smislu zaposlitve najbolj prizadete zaradi pandemije Covid-19. Vsi recimo vemo, da je bilo veliko panog prizadetih ter je bila stopnja odpuščanja zelo visoka (npr. gostinstvo), kar bi bilo najverjetneje tudi razvidno iz naših podatkov.
+Ena izmed stvari, ki jo bomo hoteli raziskati je, 
+
+Na primer, za 3. vprašanje nas bo zanimalo, katere izmed panog gospodarstva so bile v smislu zaposlitve najbolj prizadete zaradi pandemije Covid-19. Vsi recimo vemo, da je bila stopnja odpuščanja v nekaterih panogah zelo visoka (npr. gostinstvo), kar bo bilo najverjetneje tudi razvidno iz naših podatkov iz katerih bomo poskušali potegniti neke smiselne zaključke.
 
 
 
