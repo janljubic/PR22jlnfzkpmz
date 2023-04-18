@@ -19,23 +19,23 @@ TBD
 
 #### 2.1 Stopnja brezposelnosti med spoloma:
 
-Pri tem vprašanju se posvečamo predvsem korelaciji med spolom, izobrazbo in pa brezposelnostjo. Pri začetnih analizah smo ugotovili, da je brezposelnost pri moških z osnovnošolsko izobrazbo višja od brezposelnosti pri ženskah z isto izobrazbo. Trenutno smo mnenja, da so te podatki nekoliko zavajujoči, saj moram še dodatno filtrirati podatke saj za določene parametre nimamo enakega števila vzrocev. 
+Pri tem vprašanju se posvečamo predvsem korelaciji med spolom, izobrazbo in pa brezposelnostjo. Pri začetnih analizah smo ugotovili, da je brezposelnost pri moških z osnovnošolsko izobrazbo višja od brezposelnosti pri ženskah z isto izobrazbo. Trenutno smo mnenja, da so te podatki nekoliko zavajujoči, saj moramo še dodatno filtrirati podatke, saj za določene parametre nimamo enakega števila vzorcev. 
 
 #### 2.2 Stopnja brezposelnosti glede na statistično regijo
 
-Pri tem vprašanju smo naleteli na težavo in sicer to, da so podatki, ki smo jih dobili razdeljeni samo na 2 regije, ki sta vzhodna in zahodna slovenija. Podatke smo uredii in trenutno opazili, da je brezposelnost žensk v vzhodni sloveniji pada veliko hitreje kot v zahodni sloveniji oziroma da pada že dlje časa.
+Pri tem vprašanju smo naleteli na težavo in sicer to, da so podatki, ki smo jih dobili razdeljeni samo na 2 regije, ki sta vzhodna in zahodna Slovenija. Podatke smo uredili in trenutno opazili, da brezposelnost žensk v vzhodni Sloveniji pada veliko hitreje kot v zahodni Sloveniji oziroma da pada že dlje časa.
 
 
 ### 3. Trendi zaposlovanja na različnih področjih gospodarskih dejavnosti
 
-Kot naše zadnje vprašanje pa smo hoteli ugotoviti, kako se spreminja trend zaposlovanja v razčličnih gospodarskih panogah, kot so na primer: rudarstvo, predelovalne dejavnosti, gradbeništvo, gostinstvo, informacijske in komunikacijske dejavnosti.
+Kot naše zadnje vprašanje pa smo hoteli ugotoviti, kako se spreminja trend zaposlovanja v različnih gospodarskih panogah, kot so na primer: rudarstvo, predelovalne dejavnosti, gradbeništvo, gostinstvo, informacijske in komunikacijske dejavnosti.
 
-Podvprašanje, ki si ga bomo postavili, je katere panoge se povečujejo v obsegu ter iščejo novo delovno silo (npr.), ter katere se zaradi trendov v Sloveniji umikajo iz ospredja. 
+Podvprašanje, ki si ga bomo postavili je, katere panoge se povečujejo v obsegu ter iščejo novo delovno silo (npr.), ter katere se zaradi trendov v Sloveniji umikajo iz ospredja. 
 
 ![Slika kot primer](slike/graf_infromacijska.png)
 
 ### 4. Vpliv pandemije Covid-19
 
-Ena izmed stvari, ki jo bomo hoteli raziskati je tudi vpliv pandemije na zaposlovanje na splošno. Pogeldali si bomo kako je pandemija vplivala na zaposlovanje in delo v Sloveniji ter poiskali kakšne zanimivosti, ki so se zgodile.
+Ena izmed stvari, ki jo bomo hoteli raziskati je tudi vpliv pandemije na zaposlovanje na splošno. Pogledali si bomo, kako je pandemija vplivala na zaposlovanje in delo v Sloveniji ter poiskali kakšne zanimivosti, ki so se zgodile.
 
 Na primer, za 3. vprašanje nas bo zanimalo, katere izmed panog gospodarstva so bile v smislu zaposlitve najbolj prizadete zaradi pandemije Covid-19. Vsi recimo vemo, da je bila stopnja odpuščanja v nekaterih panogah zelo visoka (npr. gostinstvo), kar bo bilo najverjetneje tudi razvidno iz naših podatkov iz katerih bomo poskušali potegniti neke smiselne zaključke.
