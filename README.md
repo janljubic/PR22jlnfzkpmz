@@ -33,9 +33,9 @@ Kot naše zadnje vprašanje pa smo hoteli ugotoviti, kako se spreminja trend zap
 Podvprašanje, ki si ga bomo postavili, je katere panoge se povečujejo v obsegu ter iščejo novo delovno silo (npr.), ter katere zaradi trendov v svetu
 
 
-### 4. Vpliv Covid-19
+### 4. Vpliv pandemije Covid-19
 
-Ena izmed stvari, ki jo bomo hoteli raziskati je tudi vpliv pandemije na zaposlovanje na splošno. Pogeldali si bomo kako je pandemija vplivala na zaposlovanje in delo v Sloveniji ter poiskali kakšne zanimivosti, ki so se zgodile
+Ena izmed stvari, ki jo bomo hoteli raziskati je, 
 
 Na primer, za 3. vprašanje nas bo zanimalo, katere izmed panog gospodarstva so bile v smislu zaposlitve najbolj prizadete zaradi pandemije Covid-19. Vsi recimo vemo, da je bila stopnja odpuščanja v nekaterih panogah zelo visoka (npr. gostinstvo), kar bo bilo najverjetneje tudi razvidno iz naših podatkov iz katerih bomo poskušali potegniti neke smiselne zaključke.
 
