@@ -1,6 +1,6 @@
 # PR22_JL-NFZ-KP-MZ
 # Analiza zaposlovanja v Sloveniji
->## Projektna naloga pri predmetu Podatkovno rudarjenje
+## Projektna naloga pri predmetu Podatkovno rudarjenje
 
 Pri projektu za predmet Podatkovno rudarjenje smo analizirali področje zaposlovanja v Sloveniji. Za to temo smo se odločili, ker nas zanima trend zaposlovanja, brezposelnosti in višina plač na slovenskem trgu skozi leta.
 <br><br>
@@ -17,11 +17,11 @@ TBD
 
 ### 2. Stopnja tveganja revščine po posameznih statističnih regijah
 
->#### 2.1 Stopnja brezposelnosti med spoloma:
+#### 2.1 Stopnja brezposelnosti med spoloma:
 
 Pri tem vprašanju se posvečamo predvsem korelaciji med spolom, izobrazbo in pa brezposelnostjo. Pri začetnih analizah smo ugotovili, da je brezposelnost pri moških z osnovnošolsko izobrazbo višja od brezposelnosti pri ženskah z isto izobrazbo. Trenutno smo mnenja, da so te podatki nekoliko zavajujoči, saj moram še dodatno filtrirati podatke saj za določene parametre nimamo enakega števila vzrocev. 
 
->#### 2.2 Stopnja brezposelnosti glede na statistično regijo
+#### 2.2 Stopnja brezposelnosti glede na statistično regijo
 
 Pri tem vprašanju smo naleteli na težavo in sicer to, da so podatki, ki smo jih dobili rezdeljeni samo na 2 regije, ki sta vzhodna in zahodna slovenija. Podatke smo uredii in trenutno opazili, da je brezposelnost žensk v vzhodni sloveniji pada veliko hitreje kot v zahodni sloveniji oziroma da pada že dlje časa.
 
@@ -39,6 +39,3 @@ Podvprašanje, ki si ga bomo postavili, je katere panoge se povečujejo v obsegu
 Ena izmed stvari, ki jo bomo hoteli raziskati je tudi vpliv pandemije na zaposlovanje na splošno. Pogeldali si bomo kako je pandemija vplivala na zaposlovanje in delo v Sloveniji ter poiskali kakšne zanimivosti, ki so se zgodile.
 
 Na primer, za 3. vprašanje nas bo zanimalo, katere izmed panog gospodarstva so bile v smislu zaposlitve najbolj prizadete zaradi pandemije Covid-19. Vsi recimo vemo, da je bila stopnja odpuščanja v nekaterih panogah zelo visoka (npr. gostinstvo), kar bo bilo najverjetneje tudi razvidno iz naših podatkov iz katerih bomo poskušali potegniti neke smiselne zaključke.
-
-
-
