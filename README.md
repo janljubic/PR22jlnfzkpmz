@@ -30,7 +30,7 @@ Pri tem vprašanju smo naleteli na težavo in sicer to, da so podatki, ki smo ji
 
 Kot naše zadnje vprašanje pa smo hoteli ugotoviti, kako se spreminja trend zaposlovanja v razčličnih gospodarskih panogah, kot so na primer: rudarstvo, predelovalne dejavnosti, gradbeništvo, gostinstvo, informacijske in komunikacijske dejavnosti.
 
-Podvprašanje, ki si ga bomo postavili, je katere panoge se povečujejo v obsegu ter iščejo novo delovno silo (npr.), ter katere se zaradi trendov v svetu umikajo iz ospredja. 
+Podvprašanje, ki si ga bomo postavili, je katere panoge se povečujejo v obsegu ter iščejo novo delovno silo (npr.), ter katere se zaradi trendov v Sloveniji umikajo iz ospredja. 
 
 ![Slika kot primer](slike/graf_infromacijska.png)
 
