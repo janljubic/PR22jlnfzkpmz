@@ -6,7 +6,7 @@ Pri projektu za predmet Podatkovno rudarjenje smo analizirali področje zaposlov
 <br><br>
 V času pisanja vmesnega poročila smo delno odgovorili na 2 od 4 vprašanj, bolj natančno, primerjali smo stopnjo revščine po spolu ter kako stopnja izobrazbe vpliva na stopno revščine (2. vprašanje) ter primerjali, kako se število prostih delovnih mest bolj drastično spreminja v določenih panogah kot v drugih (3. vprašanje).
 <br><br>
-Koda, uporabljena za odgovarjanje na vprašanja je dostopna v Jupyter notebook formatu v mapi "https://github.com/janljubic/PR22jlnfzkpmz/tree/main/analiza".
+Koda, uporabljena za odgovarjanje na vprašanja je dostopna v Jupyter notebook formatu v mapi https://github.com/janljubic/PR22jlnfzkpmz/tree/main/analiza.
 <br><br>
 Preden smo začeli z analizo podatkovnih zbirk smo morali uvožene podatkovne zbirke, ki so bile v formatu .PX prebrati s pomočjo programa PX-Win. Prebrano datoteko smo nato shranili v format .csv, katerega smo lahko prebrali. Podatki so bili ločeni z ";", prav tako pa smo morali nadomestiti šumnike in celice označene z "N", odstraniti presledke v imenih vrstic, pretvoriti nize v tip integer...
 
