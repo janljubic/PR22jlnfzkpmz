@@ -1,5 +1,5 @@
 # PR22_JL-NFZ-KP-MZ
-# Analiza energetike v Sloveniji
+# Analiza zaposlovanja v Sloveniji
 >## Projektna naloga pri predmetu Podatkovno rudarjenje
 
 Pri projektu za predmet Podatkovno rudarjenje smo analizirali področje zaposlovanja v Sloveniji. Za to temo smo se odločili, ker nas zanima trend zaposlovanja, brezposelnosti in višina plač na slovenskem trgu skozi leta.
