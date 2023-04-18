@@ -4,7 +4,7 @@
 
 Pri projektu za predmet Podatkovno rudarjenje smo analizirali področje zaposlovanja v Sloveniji. Za to temo smo se odločili, ker nas zanima trend zaposlovanja, brezposelnosti in višina plač na slovenskem trgu skozi leta.
 <br><br>
-V času pisanja vmesnega poročila smo delno odgovorili na 2 od 3 vprašanj, bolj natančno, primerjali smo stopnjo revščine po spolu ter kako stopnja izobrazbe vpliva na stopno revščine (2. vprašanje) ter primerjali, kako se število prostih delovnih mest bolj drastično spreminja v določenih panogah kot v drugih (3. vprašanje).
+V času pisanja vmesnega poročila smo delno odgovorili na 2 od 4 vprašanj, bolj natančno, primerjali smo stopnjo revščine po spolu ter kako stopnja izobrazbe vpliva na stopno revščine (2. vprašanje) ter primerjali, kako se število prostih delovnih mest bolj drastično spreminja v določenih panogah kot v drugih (3. vprašanje).
 <br><br>
 Koda, uporabljena za odgovarjanje na vprašanja je dostopna v Jupyter notebook formatu v mapi "https://github.com/janljubic/PR22jlnfzkpmz/tree/main/analiza".
 <br><br>
