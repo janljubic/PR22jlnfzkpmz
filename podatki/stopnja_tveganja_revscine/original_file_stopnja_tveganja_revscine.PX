@@ -1,0 +1,116 @@
+CHARSET="ANSI";
+CODEPAGE="windows-1250";
+LANGUAGE="sl";
+LANGUAGES="sl","en";
+CREATION-DATE="20140624 10:30";
+DECIMALS=1;
+SHOWDECIMALS=0;
+MATRIX="0867636S";
+SUBJECT-CODE="08676";
+SUBJECT-AREA="ŽIVLJENJSKA RAVEN";
+SUBJECT-AREA[en]="Življenjska raven - Level of living";
+COPYRIGHT=YES;
+DESCRIPTION="Stopnja tveganja revšèine, statistiène regije, Slovenija, letno";
+DESCRIPTION[en]="At-risk-of-poverty rate, statistical regions, Slovenia, annually";
+TITLE="Stopnja tveganja revšèine po: MERITVE, STATISTIÈNA REGIJA , LETO";
+TITLE[en]="At-risk-of-poverty rate by MEASURES, STATISTICAL REGION and YEAR";
+CONTENTS="Stopnja tveganja revšèine";
+CONTENTS[en]="At-risk-of-poverty rate";
+UNITS="% oseb, število oseb";
+UNITS[en]="% of persons, number of persons";
+STUB="MERITVE","STATISTIÈNA REGIJA";
+STUB[en]="MEASURES","STATISTICAL REGION";
+HEADING="LETO";
+HEADING[en]="YEAR";
+VALUES("MERITVE")="Stopnja tveganja revšèine (% oseb)","Število oseb pod pragom tveganja revšèine";
+VALUES[en]("MEASURES")="At-risk-of-poverty rate (% of persons)",
+"Number of persons at-risk-of-poverty";
+VALUES("STATISTIÈNA REGIJA")="SLOVENIJA","Pomurska","Podravska","Koroška","Savinjska","Zasavska",
+"Posavska","Jugovzhodna Slovenija","Osrednjeslovenska","Gorenjska","Primorsko-notranjska","Goriška",
+"Obalno-kraška";
+VALUES[en]("STATISTICAL REGION")="SLOVENIA","Pomurska","Podravska","Koroška","Savinjska","Zasavska",
+"Posavska","Jugovzhodna Slovenija","Osrednjeslovenska","Gorenjska","Primorsko-notranjska","Goriška",
+"Obalno-kraška";
+VALUES("LETO")="2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022";
+VALUES[en]("YEAR")="2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022";
+TIMEVAL("LETO")=TLIST(A1),"2008","2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022";
+TIMEVAL[en]("YEAR")=TLIST(A1),"2008","2009","2010","2011","2012","2013","2014","2015","2016","2017",
+"2018","2019","2020","2021","2022";
+CODES("MERITVE")="1","2";
+CODES[en]("MEASURES")="1","2";
+CODES("STATISTIÈNA REGIJA")="0","01","02","03","04","05","06","07","08","09","10","11","12";
+CODES[en]("STATISTICAL REGION")="0","01","02","03","04","05","06","07","08","09","10","11","12";
+CODES("LETO")="2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019",
+"2020","2021","2022";
+CODES[en]("YEAR")="2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+"2019","2020","2021","2022";
+MAP("STATISTIÈNA REGIJA")="Reg2000";
+MAP[en]("STATISTICAL REGION")="Reg2015";
+ELIMINATION("MERITVE")="Stopnja tveganja revšèine (% oseb)";
+ELIMINATION[en]("MEASURES")="At-risk-of-poverty rate (% of persons)";
+ELIMINATION("STATISTIÈNA REGIJA")="SLOVENIJA";
+ELIMINATION[en]("STATISTICAL REGION")="SLOVENIA";
+PRECISION("MERITVE","Stopnja tveganja revšèine (% oseb)")=1;
+PRECISION[en]("MEASURES","At-risk-of-poverty rate (% of persons)")=1;
+LAST-UPDATED="20230420 10:30";
+CONTACT="Statistièni urad RS, T: (01) 241 64 04, E: gp.surs@gov.si";
+CONTACT[en]="Statistical Office of the Republic of Slovenia, T: +386 1 241 64 04, E: gp.surs@gov.si";
+DATABASE="SI-STAT";
+DATABASE[en]="SI-STAT";
+SOURCE="Statistièni urad Republike Slovenije";
+SOURCE[en]="Statistical Office of the Republic of Slovenia";
+NOTEX="#STOPNJA TVEGANJA REVŠÈINE je odstotek oseb, ki živijo v gospodinjstvih z ekvivalentnim (neto) razpoložljivim dohodkom, nižjim od praga tveganja revšèine. PRAG TVEGANJA REVŠÈINE se doloèi (izraèuna) kot 60 % mediane ekvivalentnega (neto) "
+"razpoložljivega dohodka vseh gospodinjstev. Za izraèun EKVIVALENTNEGA DOHODKA (dohodka na ekvivalentnega odraslega èlana gospodinjstva) se uporablja prilagojeno OECD-jevo ekvivalenèno lestvico. Lestvica daje prvemu odraslemu èlanu utež 1, otrokom, "
+"mlajšim od 14 let, utež 0,3, drugim èlanom, starim 14 ali veè let, pa utež 0,5.";
+NOTEX[en]="# (SILC).#AT-RISK-OF-POVERTY RATE is the percentage of persons living in households where the equivalised total disposable household income is below the at-risk-of-poverty threshold. AT-RISK-OF-POVERTY THRESHOLD is defined as 60% of median "
+"equivalised disposable income of all households. The OECD modified scale is used for the calculation of the EQUIVALISED INCOME (income per equivalent adult household member). The scale gives to the first adult in the household weight 1, to every other "
+"person aged 14 or more weight 0.5 and to children under 14 weight 0.3.";
+NOTEX("LETO")="Kazalnike dohodka, revšèine in socialne izkljuèenosti objavljamo za leto, v katerem se izvede raziskovanje Življenjski pogoji (SILC), podatki o dohodku za izraèun teh kazalnikov pa so iz leta pred tem, tj. iz leta pred izvedbo raziskovanja "
+"SILC.";
+NOTEX[en]("YEAR")="Income, poverty and social exclusion indicators are published for the SILC (Statistics on Income and Living Conditions) survey year. The data on income for calculating these indicators are from a year earlier, i.e. the year before the "
+"survey is conducted.";
+NOTE="Povezane vsebine:#- <A class=seznam HREF= https://www.stat.si/StatWeb/File/DocSysFile/8291 target=_blank>Metodološka pojasnila</A>";
+NOTE[en]="Linked content:#- <A class=seznam HREF= https://www.stat.si/StatWeb/File/DocSysFile/8108 target=_blank>Methodological explanations</A>#";
+NOTE("STATISTIÈNA REGIJA")="Podatki so teritorialno razvršèeni po Klasifikaciji statistiènih teritorialnih enot v Evropski uniji (The Classification  of Territorial Units for Statistics) – NUTS (<A class='seznam' HREF=http://www.stat.si/StatWeb/"
+"glavnanavigacija/metode-in-klasifikacije/klasifikacije TARGET=_blank>opis in pojasnila</A>), raven NUTS 3. Podatki o spremembah posameznih statistiènih regij so dostopni tudi na <A class='seznam' HREF=http://www.stat.si/dokument/8484 TARGET=_"
+"blank>povezavi</A>.";
+NOTE[en]("STATISTICAL REGION")="Data are territorially classsified according to The Classification of Territorial Units for Statistics – NUTS, (<A class='seznam' HREF=http://www.stat.si/statweb/en/Methods/Classifications TARGET=_blank>description and "
+"explanations</A>), level NUTS 3. Data on changes of individual statistical region are also available at the <A class='seznam' HREF=http://www.stat.si/dokument/8487 TARGET=_blank>link</A>.";
+VALUENOTEX("MERITVE","Število oseb pod pragom tveganja revšèine")="Nekateri seštevki se zaradi zaokroževanja ne ujemajo.";
+VALUENOTEX[en]("MEASURES","Number of persons at-risk-of-poverty")="Some totals do not add up due to rounding.";
+DATASYMBOL1="N";
+DATASYMBOL1[en]="N";
+DATASYMBOL2="-";
+DATASYMBOL2[en]="-";
+DATASYMBOL4="z";
+DATASYMBOL4[en]="z";
+DATA=
+12.3 11.3 12.7 13.6 13.5 14.5 14.5 14.3 13.9 13.3 13.3 12 12.4 11.7 12.1 
+20.1 18.8 21.3 20.6 19.2 19.9 17.5 15.3 14.9 14.6 16.5 13.9 15.1 14 15.9 
+18.8 15.8 17.9 18.5 18.7 18.1 17.3 15.9 15.5 16.4 15.6 16.2 16.5 14.1 14.6 
+15.2 12.8 15.3 15.4 12.9 14.8 14.8 14.5 13 13.5 13.9 15.4 17.7 16.2 13.2 
+14.5 11.9 14.2 15.1 14.2 15.3 15 16.8 15 15.4 15.4 13.5 12.4 12.5 13.3 
+9 11.1 10.6 12.6 13.2 14 14.7 13.5 15 12 15.6 16.8 15.4 15.7 10.1 
+14.9 12 14.3 14.6 16.5 20.1 19.9 16.1 17.3 18.5 11.1 10.1 9.4 14.1 12.1 
+12.4 11.7 12.1 14.2 17.2 16.2 17.4 15.7 13.9 12.4 11.1 10 9.7 7.9 9.2 
+8.3 7.8 8.5 9.8 9.7 11.1 11.4 11.8 12.5 11.5 11.3 9.6 9.8 9 10.2 
+8.7 7.7 10.7 12.5 11.3 12.8 13.3 13.3 14.2 12.4 10.3 7.8 9.2 9 9.1 
+8.2 10.4 11.9 12.2 9.2 8.5 11.3 10.6 9.5 8.4 13.6 12.5 12.5 12 14 
+7.6 9.1 9.1 9.4 11.4 13.7 12.3 15.2 14.8 9.8 15 10.6 11.4 13.3 7.4 
+10.6 13.4 12.5 14.2 13.9 14.5 15.1 13.7 8.7 10.7 12.3 11.4 15.8 17 24.8 
+241000 223000 254000 273000 271000 291000 290000 287000 280000 268000 268000 243000 254000 243000 251000 
+24000 22000 22000 22000 21000 23000 22000 20000 19000 19000 23000 19000 20000 18000 18000 
+56000 47000 56000 55000 55000 53000 52000 50000 49000 52000 49000 52000 54000 44000 44000 
+10000 10000 13000 13000 9000 11000 12000 13000 13000 14000 14000 16000 18000 10000 10000 
+36000 30000 37000 37000 34000 39000 38000 41000 38000 39000 41000 37000 35000 33000 34000 
+4000 6000 5000 6000 7000 6000 7000 8000 9000 7000 8000 9000 8000 9000 5000 
+11000 9000 9000 9000 11000 14000 14000 12000 11000 13000 8000 6000 6000 9000 8000 
+17000 16000 16000 19000 23000 24000 25000 22000 20000 17000 12000 10000 10000 9000 12000 
+42000 40000 44000 51000 51000 58000 59000 59000 64000 60000 60000 54000 56000 54000 62000 
+17000 15000 23000 28000 24000 27000 27000 25000 28000 25000 21000 15000 17000 21000 22000 
+4000 5000 6000 6000 5000 5000 6000 5000 5000 4000 5000 5000 5000 6000 5000 
+8000 10000 11000 12000 15000 16000 15000 19000 18000 11000 17000 13000 13000 16000 8000 
+11000 13000 12000 15000 15000 16000 15000 12000 6000 8000 9000 8000 11000 16000 22000; 

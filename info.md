@@ -7,8 +7,7 @@
 ## podatki
 - vse datoteke z uporabljenimi podatki.
 - datoteke, katerih imena se začenjajo z 'original_file', predstavljajo prvotno .px datoteko, ki smo jo pridobili.
-- datoteke, katerih imena se začenjajo s 'filtered', predstavljajo urejeno in filtrirano .csv datoteko (DOKONČNA TRANSFORMACIJA).
-- preostale datoteke predstavljajo .csv datoteke, ki smo jih pridobili po transformaciji iz .px datoteke.
+- preostale datoteke predstavljajo .csv datoteke, ki smo jih pridobili po transformaciji iz .px datoteke in s kasnejšo obdelavo s pomočjo knjižnice Pandas.
 ## PX-Win
 - statistično orodje, ki se uporablja za obravnavo .px datotek.
 ## slike
