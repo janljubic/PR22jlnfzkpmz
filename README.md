@@ -17,13 +17,9 @@ TBD
 
 ### 2. Stopnja tveganja revščine po posameznih statističnih regijah
 
-#### 2.1 Stopnja brezposelnosti med spoloma:
+#### 2.1 Stopnja brezposelnosti glede na statistično regijo
 
-Pri tem vprašanju se posvečamo predvsem korelaciji med spolom, izobrazbo in pa brezposelnostjo. Pri začetnih analizah smo ugotovili, da je brezposelnost pri moških z osnovnošolsko izobrazbo višja od brezposelnosti pri ženskah z isto izobrazbo. Trenutno smo mnenja, da so te podatki nekoliko zavajujoči, saj moramo še dodatno filtrirati podatke, saj za določene parametre nimamo enakega števila vzorcev. 
-
-#### 2.2 Stopnja brezposelnosti glede na statistično regijo
-
-Pri tem vprašanju smo naleteli na težavo in sicer to, da so podatki, ki smo jih dobili razdeljeni samo na 2 regije, ki sta vzhodna in zahodna Slovenija. Podatke smo uredili in trenutno opazili, da brezposelnost žensk v vzhodni Sloveniji pada veliko hitreje kot v zahodni Sloveniji oziroma da pada že dlje časa.
+Pri tem vprašanju smo naleteli na težavo in sicer to, da so podatki, ki smo jih dobili razdeljeni samo na 2 regije, ki sta vzhodna in zahodna Slovenija. Podatke smo uredili in trenutno opazili, da brezposelnost v vzhodni Sloveniji pada veliko hitreje kot v zahodni Sloveniji oziroma da pada že dlje časa.
 
 
 ### 3. Trendi zaposlovanja na različnih področjih gospodarskih dejavnosti
